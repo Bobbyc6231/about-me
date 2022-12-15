@@ -1,2 +1,3 @@
 # about-me
-## Bobby Chan
+## Name: Bobby Chan
+## Email: Bobbyc6231@hstat.org
