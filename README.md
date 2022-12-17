@@ -18,3 +18,8 @@
 * Running
 * Being happy
 * Saying Merry Christmas
+
+---
+### link to my portfolio
+
+[Click this](https://bobbyc6231.github.io/)
