@@ -12,3 +12,9 @@
 6. Lunch
 7. Algebra 2
 8. Gym
+
+#### Things I like
+* Dogs
+* Running
+* Being happy
+* Saying Merry Christmas
